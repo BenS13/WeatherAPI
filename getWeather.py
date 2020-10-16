@@ -5,7 +5,7 @@ import sanatiseOutput
 
 def getWeather(city):
     url = "http://api.openweathermap.org/data/2.5/weather?"
-    paremeters = {'q':city, 'appid' : 'a140b36a4e11dbbbdbb81cba515ef85e', 'units': 'metric'}
+    paremeters = {'q':city, 'appid' : '{YOUR API KEY}', 'units': 'metric'}
     r = requests.get(url, params=paremeters)
     loc = "City: ", r.json()['name']
     temp = "Temperature: ", r.json()['main']['temp']
