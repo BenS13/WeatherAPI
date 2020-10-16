@@ -13,3 +13,5 @@ git clone https://github.com/BenS13/WeatherAPI.git
 ***Zip*** <br />
 Download zip file, extract and run ***weatherAPI.py***
 
+#API KEYS#
+
