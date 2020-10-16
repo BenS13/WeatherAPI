@@ -10,6 +10,6 @@ gh repo clone BenS13/WeatherAPI
 ```bash
 git clone https://github.com/BenS13/WeatherAPI.git
 ```
-***Zip***
+***Zip*** <br />
 Download zip file, extract and run ***weatherAPI.py***
 
