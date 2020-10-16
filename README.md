@@ -1,7 +1,7 @@
 # WeatherAPI
 WeatherReader using [openweathermap.org's](https://openweathermap.org/current) API to get data
 
-# Installation and Execution
+# Installation and Execution (weatherAPI.py)
 ***GitHub CLI***
 ```bash
 gh repo clone BenS13/WeatherAPI
